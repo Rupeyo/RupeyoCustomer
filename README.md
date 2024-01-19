@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # rupiyo
 <img width="204" alt="Customer's_Splash" src="https://github.com/Rupeyo/RupeyoCustomer/assets/157117464/17a6ffc2-a8ae-4870-bef9-2163a68da922">
+
 Home Screen.
 
 <img width="204" alt="OTP" src="https://github.com/Rupeyo/RupeyoCustomer/assets/157117464/ed198d48-2eb0-43f8-b2aa-5f26157bc48b">
