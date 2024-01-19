@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596348151790",
+    "project_id": "rupiyo-37312",
+    "storage_bucket": "rupiyo-37312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596348151790:android:99cba5af3176f356f350ff",
+        "android_client_info": {
+          "package_name": "com.crewman.rupiyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85ilr2faDDq-RN_gw52oNSC5NYOEC_Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
