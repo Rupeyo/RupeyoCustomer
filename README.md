@@ -21,7 +21,6 @@ Wallet Screen
 Cart Screen.
 
 <img width="204" alt="ProductDetails" src="https://github.com/Rupeyo/RupeyoCustomer/assets/157117464/2eed7cb2-f081-452e-9a68-4edc996ab197">
-00119573952c">
 
 Product Details Page.
 
