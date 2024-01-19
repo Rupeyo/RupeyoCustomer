@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# rupiyo
+# rupeyo
 <img width="204" alt="Customer's_Splash" src="https://github.com/Rupeyo/RupeyoCustomer/assets/157117464/17a6ffc2-a8ae-4870-bef9-2163a68da922">
 
 Home Screen.
